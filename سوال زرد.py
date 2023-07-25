@@ -1,3 +1,8 @@
+#صورت سوال
+# https://quera.org/contest/assignments/923/problems/3363
+
+
+
 import os
 os.system('cls' if os.name == 'nt' else 'clear')
 def wow(j):
