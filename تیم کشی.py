@@ -1,0 +1,11 @@
+a1= int(input())
+b1= int(input())
+a2= int(input())
+b2= int(input())
+a3= int(input())
+b3= int(input())
+n = 0
+n += min(a1,b1)
+n += min(a2,b2)
+n += min(a3,b3)
+print(n)
